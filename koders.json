@@ -1,17 +1,27 @@
-
-{
-    "koders":[
-        {
-            "name": "Beto",
-            "gender": "m" 
-
-        }, {
-            "name":" Mariana" ,
-            "gender": "f"
-        }, {
-            "name": "Silvi" ,
-            "gender": "f"
-        }
-
-    ]
-}
+[
+  {
+    "id": 2,
+    "name": " Mariana",
+    "gender": "f"
+  },
+  {
+    "id": 3,
+    "name": "Silvi",
+    "gender": "f"
+  },
+  {
+    "id": 4,
+    "name": "Charles",
+    "gender": "m"
+  },
+  {
+    "id": 5,
+    "name": "Javi",
+    "gender": "m"
+  },
+  {
+    "id": 6,
+    "name": "Taquito",
+    "gender": "f"
+  }
+]
